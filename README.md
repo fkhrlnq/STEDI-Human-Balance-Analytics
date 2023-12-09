@@ -90,10 +90,13 @@ As a data engineer on the STEDI Step Trainer team, the goal is to extract data f
 **Athena Trusted Zone Data Query**
  - `customer_trusted` table:
 ![customer_trusted](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_trusted.jpg)
+
  -  The resulting `customer_trusted`  data has no rows where *shareWithResearchAsOfDate* is blank.
 ![*shareWithResearchAsOfDate* is blank](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_trusted_sharewithresearchasofdate.jpg)
+
  - `accelerometer_trusted` table:
 ![accelerometer_trusted](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/accelerometer_trusted.jpg)
+
 - `step_trainer_trusted` table:
 ![step_trainer_trusted](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/step_trainer_trusted.jpg)
 
@@ -107,5 +110,6 @@ As a data engineer on the STEDI Step Trainer team, the goal is to extract data f
 **Athena Curated Zone Data Query**
 - `customer_curated` table:
 ![customer_curated](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_curated.jpg)
+
 - `machine_learning_curated` table:
 ![machine_learning_curated](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/machine_learning_curated.jpg)
