@@ -71,7 +71,7 @@ As a data engineer on the STEDI Step Trainer team, the goal is to extract data f
 ![customer_landing](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_landing.jpg)
 
  -   The `customer_landing` data contains multiple rows with a blank *shareWithResearchAsOfDate*.
- - ![The customer_landing data contains multiple rows with a blank shareWithResearchAsOfDate](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_landing_sharewithresearchasofdate.jpg)
+   ![The customer_landing data contains multiple rows with a blank shareWithResearchAsOfDate](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_landing_sharewithresearchasofdate.jpg)
 
  - `accelerometer_landing` table:
 ![accelerometer_landing](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/accelerometer_landing.jpg)
