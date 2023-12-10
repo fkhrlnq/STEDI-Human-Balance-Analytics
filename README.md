@@ -92,7 +92,7 @@ As a data engineer on the STEDI Step Trainer team, the goal is to extract data f
 ![customer_trusted](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_trusted.jpg)
 
  -  The resulting `customer_trusted`  data has no rows where *shareWithResearchAsOfDate* is blank.
-![*shareWithResearchAsOfDate* is blank](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_trusted_sharewithresearchasofdate.jpg)
+![*shareWithResearchAsOfDate* is blank](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/customer_trusted_sharewithresearchasofdate_is_null.jpg)
 
  - `accelerometer_trusted` table:
 ![accelerometer_trusted](https://github.com/fkhrlnq/STEDI-Human-Balance-Analytics/blob/main/images/accelerometer_trusted.jpg)
